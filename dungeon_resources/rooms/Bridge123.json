@@ -1,0 +1,16 @@
+{
+    "size_x":1,
+    "size_y":2,
+    "size_z":5,
+	"tags":["bridge","infrastructure"],
+	"freq":0.3,
+    "connector_input":[
+        [5,5,0],[5,5,50],[5,0,5],[5,0,45]
+    ],
+    "connector_output":[
+        [5,5,0],[5,5,50]	
+    ],
+	"pillars":[
+		[0,0,0],[0,0,40]
+	]
+}

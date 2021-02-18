@@ -1,0 +1,13 @@
+{
+    "size_x":1,
+    "size_y":4,
+    "size_z":1,
+	"tags":["stairs"],
+	"freq":1,
+    "connector_input":[
+        [5,0,5]
+    ],
+    "connector_output":[
+        [5,5,10]
+    ]
+}
