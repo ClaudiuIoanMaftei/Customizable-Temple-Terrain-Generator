@@ -1,4 +1,5 @@
 # Customizable-Temple-Terrain-Generator
+![Alt text](/screenshot.png?raw=true)
 ## UI
 * Seed: used for the randomization\
 * Randomize: gain a random seed\
